@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "cenv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
